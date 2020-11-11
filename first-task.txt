@@ -1,0 +1,1 @@
+Git has two sorts of repositories: one called local, another called remote. ... Git local repository is the one on which we will make local changes, typically this local repository is on our computer. Remote repositories are versions of your project that are hosted on the Internet or network somewhere.
